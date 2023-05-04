@@ -1,2 +1,3 @@
-# Mess-Menu-App
-small project to learn how to use flutter
+# mess_menu
+
+A new Flutter project.
