@@ -12,6 +12,3 @@ BUGS
 
 
 
-
-> missing the build folder currently as it has too many files to upload at once, not sure if thats important. im not sure how to really upload flutter files
-
